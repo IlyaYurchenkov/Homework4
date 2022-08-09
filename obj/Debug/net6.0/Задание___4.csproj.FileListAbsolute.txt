@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\4\Задание___4\bin\Debug\net6.0\Задание___4.exe
+C:\Users\User\Desktop\4\Задание___4\bin\Debug\net6.0\Задание___4.deps.json
+C:\Users\User\Desktop\4\Задание___4\bin\Debug\net6.0\Задание___4.runtimeconfig.json
+C:\Users\User\Desktop\4\Задание___4\bin\Debug\net6.0\Задание___4.dll
+C:\Users\User\Desktop\4\Задание___4\bin\Debug\net6.0\Задание___4.pdb
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.AssemblyInfo.cs
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.dll
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\refint\Задание___4.dll
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.pdb
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\Задание___4.genruntimeconfig.cache
+C:\Users\User\Desktop\4\Задание___4\obj\Debug\net6.0\ref\Задание___4.dll
